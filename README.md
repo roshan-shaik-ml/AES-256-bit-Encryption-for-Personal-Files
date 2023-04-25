@@ -16,3 +16,9 @@ To use this code, simply download or clone the repository and install the requir
 ```bash
 pip install -r requirements.txt
 ```
+
+## Contributing
+Pull requests are welcome.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
